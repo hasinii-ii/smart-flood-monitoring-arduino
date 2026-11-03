@@ -22,6 +22,7 @@ Simulated using Wokwi : [ Open in Wokwi ](https://wokwi.com/projects/47960543653
 
 ## Pin Connections
 | Component | Arduino pin |
+| --- | --- |
 | HC-SR04 TRIG | D2 |
 | HC-SR04 ECHO | D3 |
 | Green LED | D5 |
