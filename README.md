@@ -29,6 +29,7 @@ Simulated using Wokwi : [ Open in Wokwi ](https://wokwi.com/projects/47960543653
 | Yellow LED | D6 |
 | Red LED | D7 |
 | Buzzer | D8 |
+
 The HC-SR04 Ultrasonic sensor's VCC and GND are connected to the Arduino's power 5V and ground pins respectively. Each LED uses its own current-limiting resistor.
 
 ## Alert Logic
