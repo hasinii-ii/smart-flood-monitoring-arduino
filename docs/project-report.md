@@ -65,7 +65,7 @@ The following conditions were verified:
 - Danger condition
 - No-echo sensor condition
 The simulation demonstrates the expected behavior of the alert system under different distance conditions.
-Wokwi Simulation: [Link](https://wokwi.com/projects/479605436532812801)
+Wokwi Simulation: [Open in Wokwi](https://wokwi.com/projects/479605436532812801)
 
 # 8. Limitations
 - The current implementation is a simulation-based prototype and has not yet been tested with physical hardware.
