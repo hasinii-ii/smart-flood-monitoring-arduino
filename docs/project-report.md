@@ -41,7 +41,7 @@ Based on the measured distance, the system activates the corresponding alert.
 # Alert Conditions
 | Distance | Condition | Indication |
 | --- | --- | --- |
-| Greater than 200 cm | Safe | Green LED ON |
+| Greater than 200 cm | Safe | Green LED ON, buzzer OFF |
 | 100-200 cm | Warning | Yellow LED ON and intermittent buzzer |
 | Less than 100 cm | Danger | Red LED blinking and continuous buzzer |
 
